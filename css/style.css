@@ -1,0 +1,30 @@
+
+.bbc{
+background-color:rgba(59, 241, 241, 0.836);
+border-color: black;
+border-style: dashed;
+border-radius: 20px;
+padding: 10px;
+margin: 20px 20px;
+text-align: justify;
+}
+.bbc span{
+    color:brown;
+    
+}
+
+.bbc h3{
+
+text-align: center;
+font-size: medium;
+
+}
+.bbc a{
+
+    background-color: rgb(255, 0, 191);
+    
+   align-self: center;
+   display: block;
+}
+
+
